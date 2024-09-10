@@ -1,0 +1,19 @@
+{
+    "zeroNumberButton": "span[onclick='r(0)']",
+    "oneNumberButton": "span[onclick='r(1)']",
+    "twoNumberButton": "span[onclick='r(2)']",
+    "threeNumberButton": "span[onclick='r(3)']",
+    "fourNumberButton": "span[onclick='r(4)']",
+    "fiveNumberButton": "span[onclick='r(5)']",
+    "sixNumberButton": "span[onclick='r(6)']",
+    "sevenNumberButton": "span[onclick='r(7)']",
+    "eightNumberButton": "span[onclick='r(8)']",
+    "nineNumberButton": "span[onclick='r(9)']",
+    "plusOperatorButton": "span[onclick=\"r('+')\"]",
+    "minusOperatorButton": "span[onclick=\"r('-')\"]",
+    "multiplyOperatorButton": "span[onclick=\"r('*')\"]",
+    "divideOperatorButton": "span[onclick=\"r('/')\"]",
+    "equalsOperatorButton": "span[onclick=\"r('=')\"]",
+    "result": "#sciOutPut",
+    "cancelButton":"span[onclick=\"r('C')\"]"
+}
